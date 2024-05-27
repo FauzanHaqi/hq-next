@@ -1,0 +1,20 @@
+{
+"status": true,
+"statusCode": 200,
+"data": [
+{
+"id": "G1Bnz7ELXr5zwcUoDjj3",
+"category": "Golf Shoes",
+"price": 3369000,
+"name": "Air Jordan 9 G",
+"image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0a1efd39-b04b-4e32-93c6-292797095240/air-jordan-9-g-golf-shoes-nNqtwL.png"
+},
+{
+"id": "rJu641j1esD2ovHNahmG",
+"name": "Air Jordan 1 Low SE Craft",
+"price": 1909000,
+"image": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco,u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e1156119-7b9f-4d44-a307-417bea74b0ff/air-jordan-1-low-se-craft-shoes-8SsDw6.png",
+"category": "Man's Shoes"
+}
+]
+}
